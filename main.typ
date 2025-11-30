@@ -1,0 +1,172 @@
+#import "template.typ": *
+#import "content/intro.typ": *
+
+// Take a look at the file `template.typ` in the file panel
+// to customize this template and discover how it works.
+#show: project.with(
+  title: "Relatório Final – Projeto Integrador",
+  subtitle: "Web3EduBrasil",
+  group: (
+    "Pedro Coelho do Nascimento",
+    "Thiago André Ulloa",
+    "Matheus Macedo do Espirito Santo",
+    "Kawai Bonilha Soares",
+    "Eric Valencia Chagas",
+    "Bruno Youshuji Tonaki",
+  ),
+  institution: "FATEC São Caetano do Sul – Antonio Russo",
+  course: "Tecnólogo em Análise e Desenvolvimento de Sistemas - AMS",
+  date: "01 de Dezembro de 2025",
+  city: "São Caetano do Sul"
+)
+
+// We generated the example code below so you can see how
+// your document will look.  Go ahead and replace it with
+// your own content!
+
+#introducao()
+
+= Objetivos
+
+== Objetivo Geral
+
+#lorem(30)
+
+== Objetivos Específicos
+
+#lorem(40)
+
+#pagebreak()
+
+= Metodologia
+
+== Tecnologias e Ferramentas Utilizadas
+
+#lorem(35)
+
+== Processo de Desenvolvimento
+
+#lorem(35)
+
+#pagebreak()
+
+= Desenvolvimento do Projeto
+
+== Funcionalidades Implementadas
+
+#lorem(40)
+
+== Etapas do Desenvolvimento
+
+#lorem(40)
+
+== Desafios e Soluções
+
+#lorem(40)
+
+#pagebreak()
+
+= Atendimento à Comunidade (Extensão)
+
+== Descrição da Demanda
+
+#lorem(40)
+
+== Público-Alvo Atendido
+
+#lorem(35)
+
+== Benefícios e Impacto Social
+
+#lorem(40)
+
+#pagebreak()
+
+= Conclusão
+
+== Resultados Obtidos
+
+#lorem(40)
+
+== Limitações
+
+#lorem(35)
+
+== Melhorias Futuras
+
+#lorem(35)
+
+#pagebreak()
+
+= Documentação Técnica Essencial
+
+== Tecnologias Utilizadas
+
+#lorem(40)
+
+== Arquitetura Geral do Sistema
+
+#lorem(40)
+
+=== Diagrama de Arquitetura
+
+#lorem(30)
+
+=== Diagrama de Ecossistema
+
+#lorem(30)
+
+== Funcionalidades Principais
+
+#lorem(40)
+
+=== Diagrama de Casos de Uso
+
+#lorem(30)
+
+#pagebreak()
+
+= Manual do Usuário Básico
+
+== Instalação do Sistema
+
+#lorem(40)
+
+== Uso das Funcionalidades Principais
+
+#lorem(40)
+
+#pagebreak()
+
+= Plano de Testes Simplificado
+
+== Plano de Testes
+
+#lorem(40)
+
+== Tipos de Testes Realizados
+
+#lorem(35)
+
+== Resultados Gerais
+
+#lorem(35)
+
+#pagebreak()
+
+= Código-Fonte
+
+== Estrutura do Projeto
+
+#lorem(40)
+
+== Link para o Repositório
+
+#lorem(30)
+
+#pagebreak()
+
+= Referências Bibliográficas
+
+- ABNT NBR 14724:2011 - Informação e documentação – Trabalhos acadêmicos - Apresentação
+- ABNT NBR 6023:2018 - Informação e documentação – Referências - Elaboração
