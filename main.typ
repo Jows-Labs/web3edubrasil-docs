@@ -1,5 +1,7 @@
 #import "template.typ": *
-#import "content/intro.typ": *
+#import "content/introducao.typ": *
+#import "content/objetivos.typ": *
+#import "content/desenvolvimento.typ": *
 
 // Take a look at the file `template.typ` in the file panel
 // to customize this template and discover how it works.
@@ -26,17 +28,7 @@
 
 #introducao()
 
-= Objetivos
-
-== Objetivo Geral
-
-#lorem(30)
-
-== Objetivos Específicos
-
-#lorem(40)
-
-#pagebreak()
+#objetivos()
 
 = Metodologia
 
@@ -50,21 +42,7 @@
 
 #pagebreak()
 
-= Desenvolvimento do Projeto
-
-== Funcionalidades Implementadas
-
-#lorem(40)
-
-== Etapas do Desenvolvimento
-
-#lorem(40)
-
-== Desafios e Soluções
-
-#lorem(40)
-
-#pagebreak()
+#desenvolvimento()
 
 = Atendimento à Comunidade (Extensão)
 
