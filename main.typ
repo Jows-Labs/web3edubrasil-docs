@@ -2,6 +2,7 @@
 #import "content/introducao.typ": *
 #import "content/objetivos.typ": *
 #import "content/desenvolvimento.typ": *
+#import "content/referencias.typ": *
 
 // Take a look at the file `template.typ` in the file panel
 // to customize this template and discover how it works.
@@ -144,7 +145,4 @@
 
 #pagebreak()
 
-= Referências Bibliográficas
-
-- ABNT NBR 14724:2011 - Informação e documentação – Trabalhos acadêmicos - Apresentação
-- ABNT NBR 6023:2018 - Informação e documentação – Referências - Elaboração
+#referencias()
