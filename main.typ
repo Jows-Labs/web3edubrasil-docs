@@ -33,18 +33,6 @@
 
 #objetivos()
 
-= Metodologia
-
-== Tecnologias e Ferramentas Utilizadas
-
-#lorem(35)
-
-== Processo de Desenvolvimento
-
-#lorem(35)
-
-#pagebreak()
-
 #desenvolvimento()
 
 = Atendimento à Comunidade (Extensão)
