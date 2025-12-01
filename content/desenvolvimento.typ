@@ -67,8 +67,6 @@
     - Testes de usabilidade com grupo piloto
     - Integração inicial com wallet de extensão
 
-    *Duração Estimada*: 6-8 semanas
-
     === Fase 2: Desenvolvimento MVP (Trilhas Agnósticas)
 
     *Objetivos*: Desenvolver e lançar MVP com trilhas fundamentais sobre Web3.
@@ -82,8 +80,6 @@
     - Testes de segurança e vulnerabilidades
     - Deploy em ambiente de produção
 
-    *Duração Estimada*: 10-12 semanas
-
     === Fase 3: Criação da plataforma de admin
 
     *Objetivos*: Desenvolver uma plataforma de administração para gerenciar e criar conteúdo para as trilhas de aprendizado.
@@ -93,8 +89,6 @@
     - Implementação de editor interativo para criação de conteúdo
     - Readequação do banco de dados para suportar novas trilhas criadas pelo admin
     - Implementação de sistema de versionamento para conteúdo
-
-    *Duração Estimada*: 12-16 semanas
 
     == Desafios e Soluções
 
