@@ -24,11 +24,11 @@
 
     === Agnose Tecnológica e Independência
 
-    Diferente de plataformas educacionais desenvolvidas ou controladas por uma rede blockchain específica (como Ethereum.org ou Solana University), o Web3EduBrasil é tecnologicamente agnóstico. Nossas trilhas fundamentais ensinam princípios universais de blockchain, criptografia e descentralização _sem favorecer nenhuma rede específica_. Essa independência é um ativo estratégico: confere credibilidade perante usuários que não querem ser "vendidos" para uma tecnologia, e posiciona a plataforma como intermediária confiável para futuras parcerias com múltiplas redes blockchain.
+    Diferente de plataformas educacionais desenvolvidas ou controladas por uma rede blockchain específica (como Ethereum.org ou Solana University), o Web3EduBrasil é tecnologicamente agnóstico. Nossas trilhas fundamentais ensinam princípios universais de blockchain, criptografia e descentralização sem favorecer nenhuma rede específica. Essa independência é um ativo estratégico: confere credibilidade perante usuários que não querem ser "vendidos" para uma tecnologia, e posiciona a plataforma como intermediária confiável para futuras parcerias com múltiplas redes blockchain.
 
     === Localização e Contexto Brasileiro
 
-    Ao contrário de plataformas como Coursera e Udemy que oferecem conteúdo genérico frequentemente traduzido ou legendado, o Web3EduBrasil é desenvolvido _nativamente_ em português e contextualizado para a realidade brasileira. Isso inclui exemplos de casos de uso locais, discussão sobre regulamentações brasileiras sobre criptomoedas, e abordagem dos desafios específicos do mercado cripto no Brasil—um país particularmente vulnerável a fraudes e desinformação sobre Web3.
+    Ao contrário de plataformas como Coursera e Udemy que oferecem conteúdo genérico frequentemente traduzido ou legendado, o Web3EduBrasil é desenvolvido nativamente em português e contextualizado para a realidade brasileira. Isso inclui exemplos de casos de uso locais, discussão sobre regulamentações brasileiras sobre criptomoedas, e abordagem dos desafios específicos do mercado cripto no Brasil—um país particularmente vulnerável a fraudes e desinformação sobre Web3.
 
     === Abordagem Prática e Sem Atrito
 

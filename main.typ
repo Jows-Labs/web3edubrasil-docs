@@ -3,6 +3,7 @@
 #import "content/objetivos.typ": *
 #import "content/desenvolvimento.typ": *
 #import "content/referencias.typ": *
+#import "content/doc_tecnica.typ": *
 
 // Take a look at the file `template.typ` in the file panel
 // to customize this template and discover how it works.
@@ -77,33 +78,7 @@
 
 #pagebreak()
 
-= Documentação Técnica Essencial
-
-== Tecnologias Utilizadas
-
-#lorem(40)
-
-== Arquitetura Geral do Sistema
-
-#lorem(40)
-
-=== Diagrama de Arquitetura
-
-#lorem(30)
-
-=== Diagrama de Ecossistema
-
-#lorem(30)
-
-== Funcionalidades Principais
-
-#lorem(40)
-
-=== Diagrama de Casos de Uso
-
-#lorem(30)
-
-#pagebreak()
+#doc_tecnica()
 
 = Manual do Usuário Básico
 
