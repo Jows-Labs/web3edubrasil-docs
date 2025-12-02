@@ -22,13 +22,13 @@
 
     Embora existam plataformas educacionais sobre blockchain no mercado global, o Web3EduBrasil apresenta diferenciais significativos que o posicionam de forma única:
 
-    === Agnose Tecnológica e Independência
+    === Tecnologia Agnóstica
 
-    Diferente de plataformas educacionais desenvolvidas ou controladas por uma rede blockchain específica (como Ethereum.org ou Solana University), o Web3EduBrasil é tecnologicamente agnóstico. Nossas trilhas fundamentais ensinam princípios universais de blockchain, criptografia e descentralização sem favorecer nenhuma rede específica. Essa independência é um ativo estratégico: confere credibilidade perante usuários que não querem ser "vendidos" para uma tecnologia, e posiciona a plataforma como intermediária confiável para futuras parcerias com múltiplas redes blockchain.
+    Diferente de plataformas educacionais desenvolvidas ou controladas por uma rede blockchain específica (como De University of Ethereum ou Solana University), o Web3EduBrasil é tecnologicamente agnóstico. Nossas trilhas fundamentais ensinam princípios universais de blockchain, criptografia e descentralização sem favorecer nenhuma rede específica. Essa independência é um ativo estratégico: confere credibilidade perante usuários que não querem ser "vendidos" para uma tecnologia, e posiciona a plataforma como intermediária confiável para futuras parcerias com múltiplas redes blockchain.
 
     === Localização e Contexto Brasileiro
 
-    Ao contrário de plataformas como Coursera e Udemy que oferecem conteúdo genérico frequentemente traduzido ou legendado, o Web3EduBrasil é desenvolvido nativamente em português e contextualizado para a realidade brasileira. Isso inclui exemplos de casos de uso locais, discussão sobre regulamentações brasileiras sobre criptomoedas, e abordagem dos desafios específicos do mercado cripto no Brasil—um país particularmente vulnerável a fraudes e desinformação sobre Web3.
+    Ao contrário de plataformas como Coursera e Udemy que oferecem conteúdo genérico frequentemente traduzido ou legendado, o Web3EduBrasil é desenvolvido nativamente em português e contextualizado para a realidade brasileira. Isso inclui exemplos de casos de uso locais, discussões sobre regulamentação de criptomoedas no Brasil, e abordagem dos desafios específicos do mercado cripto em nosso país—particularmente vulnerável a fraudes e desinformação sobre Web3.
 
     === Abordagem Prática e Sem Atrito
 
@@ -36,18 +36,15 @@
 
     === Validação de Conhecimento com IA
 
-    Enquanto plataformas tradicionais limitam-se a questões de múltipla escolha, o Web3EduBrasil integra inteligência artificial para avaliar respostas dissertativas. Isso permite uma compreensão mais profunda do aprendizado do aluno, feedback mais personalizado e uma validação de conhecimento mais robusta.
+    Enquanto plataformas tradicionais limitam-se a questões de múltipla escolha, o Web3EduBrasil integra inteligência artificial para avaliar respostas dissertativas. Isso permite uma compreensão mais profunda do aprendizado do usuário, feedback mais personalizado e uma validação de conhecimento mais robusta.
 
     === Certificações em Blockchain
 
     As certificações emitidas como NFTs são portáveis, verificáveis e parte do portfólio digital do usuário. Diferente de certificados digitais convencionais, os NFTs certificados não podem ser falsificados e representam um diferencial claro no mercado de trabalho. Redes blockchain parceiras podem, futuramente, reconhecer esses certificados como qualificação para acessar oportunidades em seus ecossistemas.
 
-    === Escala Comunitária Validada
+    === Tração Comunitária Validada
 
     O projeto foi desenvolvido em parceria com uma comunidade já consolidada de 800+ membros interessados em Web3. Isso não apenas valida a demanda, mas também cria um núcleo inicial de usuários engajados, feedback contínuo e potencial de crescimento viral através de redes de confiança.
-
-
-
   ]
 pagebreak()
 }
