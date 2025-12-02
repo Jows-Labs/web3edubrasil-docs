@@ -5,6 +5,7 @@
 #import "content/referencias.typ": *
 #import "content/doc_tecnica.typ": *
 #import "content/codigo_fonte.typ": *
+#import "content/conclusao.typ": *
 
 // Take a look at the file `template.typ` in the file panel
 // to customize this template and discover how it works.
@@ -51,21 +52,7 @@
 
 #pagebreak()
 
-= Conclusão
-
-== Resultados Obtidos
-
-#lorem(40)
-
-== Limitações
-
-#lorem(35)
-
-== Melhorias Futuras
-
-#lorem(35)
-
-#pagebreak()
+#conclusao()
 
 #doc_tecnica()
 
