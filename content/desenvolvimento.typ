@@ -11,9 +11,9 @@
     O sistema de trilhas permite que os usuários sigam um caminho estruturado e progressivo de aprendizagem. Cada trilha:
 
     - Organiza conteúdo em módulos sequenciais com dificuldade progressiva
-    - Apresenta conteúdo em múltiplos formatos: texto, imagem e gráficos
+    - Apresenta conteúdo em múltiplos formatos: texto, imagem e vídeo
     - Valida o aprendizado em diferentes pontos através de questões de múltipla escolha
-    - Oferece feedback imediato ao usuário através de IA que analisa respostas dissertativas
+    - Oferece feedback imediato através de IA que analisa respostas dissertativas
     - Permite que o usuário retome o progresso de onde parou
     - Fornece visualização clara de progresso na trilha (percentual de conclusão)
 
@@ -37,7 +37,7 @@
 
     === Validação de Conhecimento com Inteligência Artificial
 
-    Um sistema de IA foi integrado para avaliar respostas descritivas:
+    Um sistema de IA foi integrado para avaliar respostas dissertativas:
 
     - Análise semântica de respostas para validação de conceitos-chave
     - Suporte para múltiplas formas de expressão de um mesmo conceito
@@ -56,13 +56,13 @@
 
     O desenvolvimento da plataforma foi estruturado em fases, seguindo a metodologia Scrum adaptada ao contexto do projeto:
 
-    === Fase 1: Prototipagem e Validação (Inicial)
+    === Fase 1: Prototipagem e Validação
 
-    *Objetivos*: Validar a proposta de valor com a comunidade, definir arquitetura técnica, e criar MVP (Minimum Viable Product).
+    *Objetivos*: Validar a proposta de valor com a comunidade, definir arquitetura técnica e criar MVP (Produto Minimamente Viável).
 
     *Atividades*:
     - Pesquisa e feedback com comunidade
-    - Definição de arquitetura técnica usando Next.js, TypeScript, Firebase
+    - Definição de arquitetura técnica usando Next.js, TypeScript e Firebase
     - Prototipagem de fluxos principais (onboarding, trilha, certificação)
     - Testes de usabilidade com grupo piloto
     - Integração inicial com wallet de extensão
@@ -80,14 +80,14 @@
     - Testes de segurança e vulnerabilidades
     - Deploy em ambiente de produção
 
-    === Fase 3: Criação da plataforma de admin
+    === Fase 3: Desenvolvimento da Plataforma de Administração
 
-    *Objetivos*: Desenvolver uma plataforma de administração para gerenciar e criar conteúdo para as trilhas de aprendizado.
+    *Objetivos*: Desenvolver plataforma de administração para gerenciar e criar conteúdo para as trilhas de aprendizagem.
 
     *Atividades*:
     - Criação de interface de administração para gerenciar trilhas e conteúdo
     - Implementação de editor interativo para criação de conteúdo
-    - Readequação do banco de dados para suportar novas trilhas criadas pelo admin
+    - Readequação do banco de dados para suportar novas trilhas criadas pelos administradores
     - Implementação de sistema de versionamento para conteúdo
 
     == Desafios e Soluções
@@ -96,27 +96,27 @@
 
     === Desafio: Abstração da Complexidade Técnica de Web3
 
-    *Problema*: Usuários iniciantes enfrentam barreiras significativas ao tentar usar blockchain: gerenciar chaves privadas, instalar carteiras, entender testnets. Isso afasta potenciais aprendizes antes de começarem.
+    *Problema*: Usuários iniciantes enfrentam barreiras significativas ao tentar usar blockchain—gerenciar chaves privadas, instalar carteiras, entender testnets. Isso afasta potenciais alunos da trilha de aprendizagem antes de começarem.
 
     *Solução Implementada*:
     - Desenvolvimento de carteira Web3 integrada com abstração de chaves
     - Uso de login social (Google OAuth) para onboarding familiar
     - Geração automática e segura de chaves privadas no servidor
     - Interface intuitiva que esconde complexidade técnica
-    - Documentação e tutoriais que explicam "por trás do pano" o que está acontecendo
+    - Documentação e tutoriais que explicam o funcionamento por trás das funcionalidades
 
     *Resultado*: Taxa de dropout durante onboarding reduzida significativamente, permitindo que qualquer pessoa acesse a plataforma com um clique.
 
     === Desafio: Segurança e Proteção de Usuários em Web3
 
-    *Problema*: Web3 é frequentemente alvo de fraudes e scams. Educandos precisam aprender não apenas tecnologia, mas também segurança e proteção contra golpes.
+    *Problema*: Web3 é frequentemente alvo de fraudes e scams. Alunos da trilha de aprendizagem precisam aprender não apenas tecnologia, mas também segurança e proteção contra golpes.
 
     *Solução Implementada*:
     - Módulo de segurança integrado em trilhas fundamentais
-    - Conteúdo sobre reconhecimento de fraudes, phishing, scams comuns no ecossistema
-    - Boas práticas de armazenamento de chaves (mesmo com abstração, educandos entendem princípios)
+    - Conteúdo sobre reconhecimento de fraudes, phishing e scams comuns no ecossistema
+    - Boas práticas de armazenamento de chaves (mesmo com abstração, alunos entendem princípios)
 
-    *Resultado esperado*: Usuários educados não apenas em tecnologia, mas em segurança e proteção.
+    *Resultado*: Usuários educados não apenas em tecnologia, mas também em segurança e proteção.
   ]
   pagebreak()
 }
