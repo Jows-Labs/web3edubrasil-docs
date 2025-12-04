@@ -8,9 +8,8 @@
 #import "content/conclusao.typ": *
 #import "content/extensao.typ": *
 #import "content/manual_do_usuario.typ": *
+#import "content/plano_de_testes.typ": *
 
-// Take a look at the file `template.typ` in the file panel
-// to customize this template and discover how it works.
 #show: project.with(
   title: "Relatório Final – Projeto Integrador",
   subtitle: "Plataforma Educacional Web3EduBrasil",
@@ -28,10 +27,6 @@
   city: "São Caetano do Sul"
 )
 
-// We generated the example code below so you can see how
-// your document will look.  Go ahead and replace it with
-// your own content!
-
 #introducao()
 
 #objetivos()
@@ -46,21 +41,7 @@
 
 #manual_do_usuario()
 
-= Plano de Testes Simplificado
-
-== Plano de Testes
-
-#lorem(40)
-
-== Tipos de Testes Realizados
-
-#lorem(35)
-
-== Resultados Gerais
-
-#lorem(35)
-
-#pagebreak()
+#plano_de_testes()
 
 #codigo_fonte()
 
