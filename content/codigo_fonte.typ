@@ -26,6 +26,8 @@
     *Painel Administrativo:*
     https://github.com/Jows-Labs/web3edu-app-admin
 
+    *Documentação:*
+    https://github.com/Jows-Labs/web3edubrasil-docs
   ]
     pagebreak()
 }
