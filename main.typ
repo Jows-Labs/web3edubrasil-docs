@@ -7,6 +7,7 @@
 #import "content/codigo_fonte.typ": *
 #import "content/conclusao.typ": *
 #import "content/extensao.typ": *
+#import "content/manual_do_usuario.typ": *
 
 // Take a look at the file `template.typ` in the file panel
 // to customize this template and discover how it works.
@@ -43,17 +44,7 @@
 
 #doc_tecnica()
 
-= Manual do Usuário Básico
-
-== Instalação do Sistema
-
-#lorem(40)
-
-== Uso das Funcionalidades Principais
-
-#lorem(40)
-
-#pagebreak()
+#manual_do_usuario()
 
 = Plano de Testes Simplificado
 
